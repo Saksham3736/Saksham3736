@@ -1,14 +1,16 @@
 # INTRODUCTION
 
-Hello World, I am Saksham, lives in Haibowal Kalan, Ludhiana. I am a hustler, confident and dedicated student persuing B.tech in CSE from Guru Nanak Dev Engineering college to become a great engineer. I have done my schooling From Bhartiya Vidya Mandir Sen. Sec. School(BVM), Kitchlu Nagar, Ludhiana. I love to do crerative things like playing piano, Creating Cinematic Photos, Creative videos and making colourful design patterns or templates. I have played cricket for about 1.5 years proffessionally in under 14 category. My most favourite subject is mathematics as I love to solve complex calculations. 
+- Hello World, I am Saksham, lives in Haibowal Kalan, Ludhiana. I am a hustler, confident and dedicated student persuing B.tech in CSE from Guru Nanak Dev Engineering college to become a great engineer. I have done my schooling From Bhartiya Vidya Mandir Sen. Sec. School(BVM), Kitchlu Nagar, Ludhiana. I love to do crerative things like playing piano, Creating Cinematic Photos, Creative videos and making colourful design patterns or templates. I have played cricket for about 1.5 years proffessionally in under 14 category. My most favourite subject is mathematics as I love to solve complex calculations. 
 ![](Saksham.jpg)
+
 
 # EDUCATION
 
+
 | SCHOOL NAME | CLASS | YEAR |
-|-------------|-------|------|
-| BVM SCHOOL| 10| 2022|
-|BVM SCHOOL | 12|2024|
+|:-----------:|:-----:|:----:|
+| BVM SCHOOL | 10 | 2022 |
+| BVM SCHOOL | 12 | 2024 |
 
 
 # MARKS OBTAINED
