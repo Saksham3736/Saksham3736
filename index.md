@@ -37,10 +37,10 @@ Hello World, I am Saksham, lives in Haibowal Kalan, Ludhiana. I am a hustler, co
  
 
 # ACHIEVEMENTS
-I was 2nd rank holder in my school in 12th. I have achieved 100 marks in 10th, gold medal in maths olympiad in 11th at school level and high scorer in 12th also in my favourite subject. I have been on top from last three years in mathematics in my school and wanted to be best further in it at college level.
+- I was 2nd rank holder in my school in 12th. I have achieved 100 marks in 10th, gold medal in maths olympiad in 11th at school level and high scorer in 12th also in my favourite subject. I have been on top from last three years in mathematics in my school and wanted to be best further in it at college level.
 
 # Youtube Channel
-I am currently running a motivational youtube channel to motivate the world so that all can achieve the things they want..
+- I am currently running a motivational youtube channel to motivate the world so that all can achieve the things they want..
 
 [The Struggling Theory](https://www.youtube.com/@thestrugglingtheory3736)
 # My View point about Coding
@@ -49,6 +49,6 @@ _In my opinion, coding helps to create things more professionally and more creat
 And I think that from this college and under the Guidence of Dr. H S Rai sir, I can assurely learn coding in better way_
 
 # To communicate with me 
-This is my insta handle 
+- This is my insta handle 
 
 [Saksham](https://www.instagram.com/sk._.official._.3125/)
