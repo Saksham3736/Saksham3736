@@ -6,8 +6,7 @@
 
 # EDUCATION
 
-
-| SCHOOL NAME | CLASS | YEAR |
+| School Name | Class | Year |
 |:-----------:|:-----:|:----:|
 | BVM SCHOOL | 10 | 2022 |
 | BVM SCHOOL | 12 | 2024 |
