@@ -41,6 +41,10 @@
 # ACHIEVEMENTS
 - I was 2nd rank holder in my school in 12th. I have achieved 100 marks in 10th, gold medal in maths olympiad in 11th at school level and high scorer in 12th also in my favourite subject. I have been on top from last three years in mathematics in my school and wanted to be best further in it at college level.
 
+# My Excel Certificate :
+
+![](photo_2024-07-26_20-17-57.jpg)
+
 # My Experience At GNDEC :
 
 [My experience with GNDEC is going really great. If you want to know about it, Then Tap it.](https://Saksham3736.github.io/Experience-at-GNDEC/)
