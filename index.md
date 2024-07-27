@@ -59,7 +59,7 @@
 [The Struggling Theory](https://www.youtube.com/@thestrugglingtheory3736)
 # My View point about Coding
 
-_In my opinion, coding helps to create things more professionally and more creatively. My personel interst is in learning coding to create designs and things for web pages, apps, video editing, script writing and to learn about how machine learning works and in Artificial Intelligence.\
+- _In my opinion, coding helps to create things more professionally and more creatively. My personel interst is in learning coding to create designs and things for web pages, apps, video editing, script writing and to learn about how machine learning works and in Artificial Intelligence.\
 And I think that from this college and under the Guidence of Dr. H S Rai sir, I can assurely learn coding in better way_
 
 # To communicate with me 
